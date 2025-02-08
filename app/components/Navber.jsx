@@ -22,7 +22,7 @@ const Navber = () => {
           <Link href="/shorten">
             <Button className="bg-[#007bff] hover:bg-[#0056b3] text-white font-semibold">Try Now</Button>
           </Link>
-          <Link href="/github">
+          <Link href='https://github.com/hassanmasood200716'>
             <Button className="bg-[#00eaff] hover:bg-[#00c3cc] text-black font-semibold">GitHub</Button>
           </Link>
         </div>
@@ -41,7 +41,7 @@ const Navber = () => {
             <Link href="/shorten">
               <Button className="w-full bg-[#007bff] hover:bg-[#0056b3] text-white font-semibold">Try Now</Button>
             </Link>
-            <Link href="/github">
+            <Link href='https://github.com/hassanmasood200716'>
               <Button className="w-full bg-[#00eaff] hover:bg-[#00c3cc] text-black font-semibold">GitHub</Button>
             </Link>
           </div>

@@ -22,7 +22,7 @@ export default function Home() {
                 Try Now
               </button>
             </Link>
-            <Link href="/github">
+            <Link href='https://github.com/hassanmasood200716'>
               <button className="bg-[#00eaff] hover:bg-[#00c3cc] text-black font-semibold px-6 py-2 rounded-lg shadow-md transition duration-300">
                 GitHub
               </button>
